@@ -569,6 +569,9 @@ table {
 .collection1 {
   padding: 50px 0;
 }
+.collection1 div[class*='col-'] {
+  margin-bottom: 1rem;
+}
 .collection1__product-img {
   background: #edeff5;
   display: flex;
@@ -579,6 +582,11 @@ table {
   position: relative;
   cursor: pointer;
   overflow: hidden;
+}
+.collection1__product-img .img-link {
+  display: block;
+  width: 70%;
+  height: 100%;
 }
 .collection1__product-img--cover img {
   -o-object-fit: cover;
