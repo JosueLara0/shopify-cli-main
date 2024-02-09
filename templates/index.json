@@ -55,6 +55,22 @@
         "sm_col": "col-sm-6"
       }
     },
+    "hero_two_8jKc3x": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "100vh",
+        "image1": "shopify:\/\/shop_images\/squatting-exercise.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "View More",
+        "button_link1": "shopify:\/\/collections\/women",
+        "image2": "shopify:\/\/shop_images\/cross-fit-rope-workout.jpg",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "View More",
+        "button_link2": "shopify:\/\/collections\/men"
+      }
+    },
     "collection_products_1_tdr6Lh": {
       "type": "collection-products-1",
       "settings": {
@@ -73,27 +89,41 @@
         "sm_col": "col-sm-6"
       }
     },
-    "hero_two_8jKc3x": {
-      "type": "hero-two",
+    "hero_one_jDWqD4": {
+      "type": "hero-one",
+      "blocks": {
+        "heading_9DXW3K": {
+          "type": "heading",
+          "settings": {
+            "title": "SUMMER COLLECTION",
+            "title_size": "sm"
+          }
+        },
+        "paragraph_yEUQwx": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
+          }
+        }
+      },
+      "block_order": [
+        "heading_9DXW3K",
+        "paragraph_yEUQwx"
+      ],
       "settings": {
-        "hero_height": "100vh",
-        "image1": "shopify:\/\/shop_images\/squatting-exercise.jpg",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "View More",
-        "button_link1": "shopify:\/\/collections\/women",
-        "image2": "shopify:\/\/shop_images\/cross-fit-rope-workout.jpg",
-        "background2": "#000000",
-        "opacity2": 50,
-        "button_label2": "View More",
-        "button_link2": "shopify:\/\/collections\/men"
+        "hero_height": "75vh",
+        "image": "shopify:\/\/shop_images\/tropical-beach-below-cliff.jpg",
+        "background": "#a2d922",
+        "opacity": 50,
+        "info_alignment": "left"
       }
     }
   },
   "order": [
     "hero_one_GmeV6T",
     "collection_products_1_74Qe7m",
+    "hero_two_8jKc3x",
     "collection_products_1_tdr6Lh",
-    "hero_two_8jKc3x"
+    "hero_one_jDWqD4"
   ]
 }
