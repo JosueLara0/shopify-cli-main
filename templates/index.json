@@ -37,6 +37,24 @@
         "info_alignment": "left"
       }
     },
+    "collection_products_1_74Qe7m": {
+      "type": "collection-products-1",
+      "settings": {
+        "collection": "nike",
+        "total_products": 3,
+        "container_shape": "square",
+        "image_fit": "contain",
+        "background": "#ffffff",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-4",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
+      }
+    },
     "collection_products_1_tdr6Lh": {
       "type": "collection-products-1",
       "settings": {
@@ -58,6 +76,7 @@
   },
   "order": [
     "hero_one_GmeV6T",
+    "collection_products_1_74Qe7m",
     "collection_products_1_tdr6Lh"
   ]
 }
