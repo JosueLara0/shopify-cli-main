@@ -62,7 +62,7 @@
         "total_products": 16,
         "container_shape": "rectangle",
         "image_fit": "contain",
-        "background": "#edeff5",
+        "background": "#f3f3f3",
         "opacity": 100,
         "show_title": true,
         "show_price": true,
@@ -72,11 +72,28 @@
         "md_col": "col-md-3",
         "sm_col": "col-sm-6"
       }
+    },
+    "hero_two_8jKc3x": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "100vh",
+        "image1": "shopify:\/\/shop_images\/squatting-exercise.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "View More",
+        "button_link1": "shopify:\/\/collections\/women",
+        "image2": "shopify:\/\/shop_images\/cross-fit-rope-workout.jpg",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "View More",
+        "button_link2": "shopify:\/\/collections\/men"
+      }
     }
   },
   "order": [
     "hero_one_GmeV6T",
     "collection_products_1_74Qe7m",
-    "collection_products_1_tdr6Lh"
+    "collection_products_1_tdr6Lh",
+    "hero_two_8jKc3x"
   ]
 }
