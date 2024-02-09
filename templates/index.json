@@ -13,14 +13,14 @@
         "paragraph_69CwLH": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
+            "paragraph": ""
           }
         },
         "button_Nmqx9H": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "View More",
+            "button_link": "shopify:\/\/collections\/women"
           }
         }
       },
